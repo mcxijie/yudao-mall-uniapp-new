@@ -82,6 +82,56 @@
 				"title": "自定义页面",
 				"group": "商城"
 			}
+		},
+		{
+			"path" : "pages/index/heartbeat_wall",
+			"style" :
+			{
+				"navigationBarTitleText" : "心动墙"
+			},
+			"meta": {
+				"auth": false,
+				"sync": true,
+				"title": "心动墙",
+				"group": "心动墙"
+			}
+		},
+		{
+			"path" : "pages/index/newuser",
+			"style" :
+			{
+				"navigationBarTitleText" : "我的"
+			},
+			"meta": {
+				"auth": false,
+				"sync": true,
+				"title": "我的",
+				"group": "我的"
+			}
+		},
+		{
+			"path" : "pages/index/select_order",
+			"style" :
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/index/random_order",
+			"style" :
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/index/dynamic_plaza",
+			"style" :
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
 		}
 	],
 	"subPackages": [{

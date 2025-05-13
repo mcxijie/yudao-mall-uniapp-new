@@ -94,6 +94,7 @@
     "luch-request": "^3.0.8",
     "pinia": "^2.0.33",
     "pinia-plugin-persist-uni": "^1.2.0",
+    "vant": "^4.9.9",
     "weixin-js-sdk": "^1.6.0"
   },
   "devDependencies": {
